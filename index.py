@@ -7,8 +7,8 @@ from pdf_downloader import download
 BOOK_PAGE_URL = 'https://tula-online.org/items/show/'
 
 # pass your login and password
-TULA_LOGIN = 'andrii_matsiiebskyi'
-TULA_PASSWORD = 'nMdNp7muFVp4P3h'
+TULA_LOGIN = ''
+TULA_PASSWORD = ''
 
 
 def run():
